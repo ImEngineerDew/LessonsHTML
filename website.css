@@ -1,3 +1,14 @@
-*{
-    vertical-align: center;
+body
+{
+    background-color: yellowgreen;
+}
+h1
+{
+    color:brown;
+}
+p
+{
+    text-align: justify;
+    font-family: Arial;
+    font-style: oblique;
 }
