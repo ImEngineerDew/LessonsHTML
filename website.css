@@ -3,11 +3,12 @@ body
     background-color: yellowgreen;
 }
 h1{
-    color:aquamarine;
+    color:brown;
 }
 .about-of
 {
-    background-color: brown;
+    border: 5px solid brown;
+    background-color: salmon;
     text-align: center;
     font-family: Arial;
     font-style: bold;
