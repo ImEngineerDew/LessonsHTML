@@ -2,15 +2,22 @@ body
 {
     background-color: yellowgreen;
 }
-h1
-{
-    color:brown;
+h1{
+    color:aquamarine;
 }
-p
+.about-of
 {
-    text-align: justify;
+    background-color: brown;
+    text-align: center;
     font-family: Arial;
-    font-style: oblique;
+    font-style: bold;
+}
+.text-about
+{
+    font-family:Helvetica;
+    font-style:normal;
+    text-align:justify;
+    color:brown;
 }
 
 
