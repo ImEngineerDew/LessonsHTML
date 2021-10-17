@@ -8,7 +8,6 @@ h1{
 .about-of
 {
     border: 5px solid brown;
-    margin: 5px;
     background-color: salmon;
     text-align: center;
     font-family: Arial;
@@ -16,6 +15,9 @@ h1{
 }
 .text-about
 {
+    border: 2px solid brown;
+    margin-left: 200px;
+    margin-right: 25px;
     font-family:Helvetica;
     font-style:normal;
     text-align:justify;
