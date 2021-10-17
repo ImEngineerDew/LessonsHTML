@@ -1,15 +1,15 @@
-a:visited{
+a:visited{                      /*When the website is already visited*/
     color:green;
     text-decoration:none;
     font-family:Arial;
 }
-a:link{
+a:link{                         /*When the website isn't visit yet*/
     color:blue;
     text-decoration:none;
     font-family: Arial;
 }
-a:hover{
-    color:blue;
+a:hover{                        /*When you put the mouse on the link*/
+    color:blue;         
     text-decoration:underline;
     font-family: Arial;
 }
