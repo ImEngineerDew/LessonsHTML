@@ -1,0 +1,16 @@
+h1{
+    color:greenyellow
+}
+
+a:link, a:visited                               /*Like a button*/
+{
+    background-color:rgb(253, 253, 101);
+    color:white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+}
+a:hover, a:active {
+    background-color:greenyellow;
+    color:white;
+}

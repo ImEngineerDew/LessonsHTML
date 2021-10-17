@@ -1,3 +1,4 @@
+
 a:visited{                      /*When the website is already visited*/
     color:green;
     text-decoration:none;
@@ -13,7 +14,7 @@ a:hover{                        /*When you put the mouse on the link*/
     text-decoration:underline;
     font-family: Arial;
 }
-a:active{
+a:active{                       /*When you is going to press the link*/
     color:rgb(4, 4, 59);
     text-decoration:underline;
     font-family: Arial;
@@ -22,5 +23,10 @@ h1{
     font-family:Arial;
     font-style:bold;
     text-align: center;
-
+}
+p
+{
+    font-family:Arial;
+    font-style: normal;
+    text-align: left;
 }
