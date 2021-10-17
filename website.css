@@ -9,18 +9,21 @@ h1{
 {
     border: 5px solid brown;
     background-color: salmon;
+    margin-left:5px;
+    margin-right:5px;
     text-align: center;
     font-family: Arial;
     font-style: bold;
 }
 .text-about
 {
-    border: 2px solid brown;
-    margin-left: 200px;
-    margin-right: 25px;
-    font-family:Helvetica;
+    border: 5px;
+    margin-left:800px;
+    margin-right: 5px;
+    margin-top: 5px;
+    font-family: Arial;
     font-style:normal;
-    text-align:justify;
+    text-align:start;
     color:brown;
 }
 .return-start
