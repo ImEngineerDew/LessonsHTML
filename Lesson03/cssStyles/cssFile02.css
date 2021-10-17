@@ -8,3 +8,14 @@ a:link{
     text-decoration:none;
     font-family: Arial;
 }
+a:hover{
+    color:blue;
+    text-decoration:underline;
+    font-family: Arial;
+}
+h1{
+    font-family:Arial;
+    font-style:bold;
+    text-align: center;
+
+}
