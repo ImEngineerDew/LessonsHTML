@@ -26,12 +26,21 @@ h1{
     text-align:start;
     color:brown;
 }
-.return-start
+
+a:link,a:visited
 {
-    font-family:Arial;
-    font-style: bold;
-    text-align:left;
-    color:blue;
+    border: 2px solid brown;
+    background-color: salmon;
+    color:brown;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration:none;
 }
+a:hover, a:active 
+{
+    background-color: sandybrown;
+    color: brown;
+}
+
 
 
