@@ -1,14 +1,22 @@
 body{
     background-color: yellowgreen;  
 }
+h1{
+    color:brown;
+}
 .title
 {
-    background-color:brown;
-    color:aquamarine;   
+    border: 5px solid brown;
+    background-color: salmon;
+    margin-left:5px;
+    margin-right:5px;
+    text-align: center;
+    font-family: Arial;
+    font-style: bold; 
 }
 
 a:link,a:visited{
-    border:2px solid brown;
+    border:5px solid;
     background-color: salmon;
     margin-left:200px;
     margin-right:50px;
