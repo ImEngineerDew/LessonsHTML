@@ -1,5 +1,7 @@
 h1{
-    color:greenyellow
+    color: black;
+    font-family: Arial;
+    text-align: center;
 }
 
 a:link, a:visited                               /*Like a button*/
@@ -13,4 +15,10 @@ a:link, a:visited                               /*Like a button*/
 a:hover, a:active {
     background-color:greenyellow;
     color:white;
+}
+p{
+    font-family: Arial;
+    font-size:medium;
+    text-align: left;
+    font-style: normal;
 }
