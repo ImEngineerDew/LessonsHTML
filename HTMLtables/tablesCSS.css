@@ -1,0 +1,16 @@
+table, th,td
+{
+    border: 1px solid black;
+}
+
+th{
+    text-align: center; 
+    font-family: Arial;
+    font-style:  bold;
+}
+
+tr
+{
+    text-align: center;
+    font-family: Arial;
+}
