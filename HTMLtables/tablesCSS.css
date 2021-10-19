@@ -18,3 +18,11 @@ tr
     font-family: Arial;
     font-style: normal;
 }
+caption
+{
+    text-align: center;
+    font-family: Arial;
+    font-style: bold;
+    padding:1px;
+    border: 1px solid black;
+}
