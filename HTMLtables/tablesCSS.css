@@ -5,16 +5,27 @@ table, th,td
     border-spacing: 5px;
     padding: 5px;
 }
+table{
+    width: 100%;
+}
 
 th{
     text-align: center; 
     font-family: Arial;
     font-style:  bold;
+    background-color: rgb(6, 6, 68);
+    color:white;
 }
 
-tr
+tr:nth-child(even)
 {
-    text-align: center;
+    background-color: #f1faee;
+    font-family:Arial;
+    font-style:normal;
+}
+tr:nth-child(odd)
+{
+    background-color: rgb(181, 233, 216);
     font-family: Arial;
     font-style: normal;
 }
@@ -23,6 +34,7 @@ caption
     text-align: center;
     font-family: Arial;
     font-style: bold;
+    font-size:50px;
+    line-height: 70px;
     padding:1px;
-    border: 1px solid black;
 }
