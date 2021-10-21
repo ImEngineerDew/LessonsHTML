@@ -12,7 +12,7 @@ table,th,td
     font-family: Arial;
     font-size: normal;
     text-align: center;
-    width: 100px;               /*Yaaas, this is the path for centering the table*/
+    width: 500px;               /*Yaaas, this is the path for centering the table*/
     margin:0 auto;    
 }
 th,td{
