@@ -9,6 +9,21 @@ table,th,td
 {
     border-collapse: collapse;
     border: 1px solid black;
+    font-family: Arial;
+    font-size: normal;
+    text-align: center;
+    width: 100px;               /*Yaaas, this is the path for centering the table*/
+    margin:0 auto;    
+}
+th,td{
+    padding-left:3mm;
+    padding-right: 3mm;
+    padding-top: 3mm;
+    padding-bottom: 3mm;
+}
+td
+{
+
 }
 
 caption
