@@ -5,3 +5,19 @@ h1
     font-style: bold;
     text-align: center;
 }
+table,th,td
+{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+caption
+{
+    text-align: center;
+}
+
+th{
+    font-size:larger;
+    font-family:Arial;
+    text-align: center;
+}
